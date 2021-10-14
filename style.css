@@ -1,0 +1,20 @@
+#title {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 45px;
+}
+
+.operator {
+    background-color: bisque;
+}
+
+#submit {
+    background-color: bisque;
+    color:cornflowerblue;
+    
+}
+
+::placeholder {
+    color: cornflowerblue;
+    text-align: center;
+}
